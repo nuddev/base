@@ -13,9 +13,13 @@
   },
   "devDependencies": {
     "@nuxt/eslint": "latest",
+    "@types/lodash": "^4.17.13",
     "eslint": "^9.14.0",
     "nuxt": "^3.13.2",
     "typescript": "^5.6.3",
     "vue": "latest"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }
